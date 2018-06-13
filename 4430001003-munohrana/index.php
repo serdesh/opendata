@@ -1,6 +1,6 @@
 <?php
 $urlmeta = '4430001003-munohrana/meta.csv';
-$folder = '4430001003-munohrana';
+$folder = getFolderName($urlmeta);
 $pf_array = file($urlmeta); // Считывание файла в массив
 //Определение переменных. данные берутся из файла meta.csv
 if ($pf_array){

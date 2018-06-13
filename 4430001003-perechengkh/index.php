@@ -1,7 +1,6 @@
 <?php
 $urlmeta = '4430001003-perechengkh/meta.csv';
-$folder = substr($urlmeta, 0, strpos($urlmeta, '/'));
-
+$folder = getFolderName($urlmeta);
 $pf_array = file($urlmeta); // Считывание файла в массив
 /*echo '<pre>';
 print_r($pf_array);

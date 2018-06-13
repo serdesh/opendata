@@ -1,6 +1,6 @@
 <?php
 $urlmeta = '4430001003-vakansii/meta.csv';
-$folder = '4430001003-vakansii';
+$folder = getFolderName($urlmeta);
 $pf_array = file($urlmeta); // Считывание файла в массив
 /*echo '<pre>';
 print_r($pf_array);
