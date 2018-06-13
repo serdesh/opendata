@@ -1,0 +1,17 @@
+property;value
+standardversion;http://opendata.gosmonitor.ru/standard/3.0
+identifier;4430001003-pomosch
+title;Сведения о местах нахождения службы психологической помощи, бесплатной юридической помощи
+description;Сведения о местах нахождения службы психологической помощи, бесплатной юридической помощи (наименование, режим работы), на территории Шарьинского района 
+creator;Администрация Шарьинского муниципального района Костромской области
+created;20160623
+modified;
+subject;помощь
+format;csv
+provenance;
+valid;
+publishername;Голубева Мария Дмитриевна
+publisherphone;+74944957775
+publishermbox;m.golubeva@admshmr.ru
+data-20170605T1556-structure-20170605T1344;http://opendata.admshmr.ru/4430001003-pomosch/data-20170605T1556-structure-20170605T1344.csv
+structure-20170605T1344;http://opendata.admshmr.ru/4430001003-pomosch/structure-20170605T1344.csv

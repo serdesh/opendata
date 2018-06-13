@@ -1,0 +1,17 @@
+property;value
+standardversion;http://opendata.gosmonitor.ru/standard/3.0
+identifier;4430001003-planproverok
+title;План проведения плановых проверок юридических лиц и индивидуальных предпринимателей
+description;План проведения плановых проверок юридических лиц и индивидуальных предпринимателей администрацией Шарьинского муниципального района Костромской области с указанием проверяемых учреждений и дат проведения проверок
+creator;Администрация Шарьинского муниципального района Костромской области
+created;20160623
+modified;
+subject;Проверка, план
+format;csv
+provenance;
+valid;
+publishername;
+publisherphone;
+publishermbox;sharya@adm44.ru
+data-20160623T0912-structure-20160623T1026;http://opendata.admshmr.ru/4430001003-planproverok/data-20160623T0912-structure-20160623T1026.csv
+structure-20160623T1026;http://opendata.admshmr.ru/4430001003-planproverok/structure-20160623T1026.csv

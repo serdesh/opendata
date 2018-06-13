@@ -1,0 +1,17 @@
+property;value
+standardversion;http://opendata.gosmonitor.ru/standard/3.0
+identifier;4430001003-geopunkty
+title;Сведения о местах нахождения пунктов геодезических сетей специального назначения
+description;Сведения о местах нахождения пунктов геодезических сетей специального назначения, созданных за счет средств местного бюджета Шарьинского муниципального района Костромской области
+creator;Администрация Шарьинского муниципального района Костромской области
+created;20180322
+modified;
+subject;геодезические сети, пункты
+format;csv
+provenance;
+valid;
+publishername;Отсутствует
+publisherphone;-
+publishermbox;-
+data-20180322T1000-structure-20180322T0945;http://opendata.admshmr.ru/4430001003-geopunkty/data-20180322T1000-structure-20180322T0945.csv
+structure-20180322T0945;http://opendata.admshmr.ru/4430001003-geopunkty/structure-20180322T0945.csv

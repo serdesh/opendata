@@ -1,0 +1,17 @@
+property;value
+standardversion;http://opendata.gosmonitor.ru/standard/3.0
+identifier;4430001003-vakansii
+title;Сведения о вакантных должностях муниципальной службы
+description;Сведения о вакантных должностях муниципальной службы в администрации Шарьинского муниципального района Костромской области
+creator;Администрация Шарьинского муниципального района Костромской области
+created;20160623
+modified;20180329
+subject;Вакансия
+format;csv
+provenance;Актуализация данных
+valid;
+publishername;Голубева Мария Дмитриевна
+publisherphone;+74944957775
+publishermbox;m.golubeva@admshmr.ru
+data-20160623T0900-structure-20160623T0958;http://opendata.admshmr.ru/4430001003-vakansii/data-20180329T1142-structure-20160623T0958.csv
+structure-20160623T0958;http://opendata.admshmr.ru/4430001003-vakansii/structure-20160623T0958.csv

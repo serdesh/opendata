@@ -1,0 +1,17 @@
+property;value
+standardversion;http://opendata.gosmonitor.ru/standard/3.0
+identifier;4430001003-poddergkaorganizacii
+title;Сведения из муниципальных реестров социально-оринтированных некоммерческих организаций-получателей поддержки
+description;Сведения из муниципальных реестров социально-оринтированных некоммерческих организаций-получателей поддержки (наименование юридического лица), на территории Шарьинского района
+creator;Администрация Шарьинского муниципального района Костромской области
+created;20170605
+modified;
+subject;получател поддержки
+format;csv
+provenance;
+valid;
+publishername;Вангела Анна Юрьевна
+publisherphone;+74944958987
+publishermbox;a.vangela@admshmr.ru
+data-20170605T1550-structure-20170605T1344;http://opendata.admshmr.ru/4430001003-poddergkaorganizacii/data-20170605T1550-structure-20170605T1344.csv
+structure-20170605T1344;http://opendata.admshmr.ru/4430001003-poddergkaorganizacii/structure-20170605T1344.csv

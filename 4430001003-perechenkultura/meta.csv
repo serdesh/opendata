@@ -1,0 +1,17 @@
+property;value
+standardversion;http://opendata.gosmonitor.ru/standard/3.0
+identifier;4430001003-perechenkultura
+title;Перечень организаций и учреждений культуры
+description;Сведения, содержащие наименования, адреса и телефоны учреждений культуры Шарьинского муниципального района Костромской области
+creator;Администрация Шарьинского муниципального района Костромской области
+created;20160622
+modified;
+subject;Учреждения культуры, культура
+format;csv
+provenance;Нет данных
+valid;20170904
+publishername;Бурлакова Татьяна Николаевна
+publisherphone;+74944958779
+publishermbox;kultray@yandex.ru
+data-20160622T1617-structure-20160622T1618;http://opendata.admshmr.ru/4430001003-perechenkultura/data-20160622T1617-structure-20160622T1618.csv
+structure-20160622T1618;http://opendata.admshmr.ru/4430001003-perechenkultura/structure-20160622T1618.csv

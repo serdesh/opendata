@@ -1,0 +1,17 @@
+property;value
+standardversion;http://opendata.gosmonitor.ru/standard/3.0
+identifier;4430001003-mestoadministracii
+title;Сведения о местах нахождения администраций муниципальных образований, иных органов местного самоуправления
+description;Сведения о местах нахождения администраций муниципальных образований, иных органов местного самоуправления, в том числе в сфере образования, труда, социальной защиты, спорта, культуры и искусства (наименование, режим работы) , на территории Шарьинского района  
+creator;Администрация Шарьинского муниципального района Костромской области
+created;20170605
+modified;
+subject;адреса, местоположение
+format;csv
+provenance;
+valid;
+publishername;Перевозчиков Николай Сергеевич
+publisherphone;+74944953391
+publishermbox;n.perevozchikov@admshmr.ru
+data-20170605T1523-structure-20170605T1344;http://opendata.admshmr.ru/4430001003-mestoadministracii/data-20170605T1523-structure-20170605T1344.csv
+structure-20170605T1344;http://opendata.admshmr.ru/4430001003-mestoadministracii/structure-20170605T1344.csv

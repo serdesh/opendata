@@ -1,0 +1,17 @@
+property;value
+standardversion;http://opendata.gosmonitor.ru/standard/3.0
+identifier;4430001003-munohrana
+title;Сведения о местах нахождения подразделений муниципальной пожарной охраны
+description;Сведения о местах нахождения подразделений муниципальной пожарной охраны (режим работы), на территории Шарьинского района
+creator;Администрация Шарьинского муниципального района Костромской области
+created;20180329
+modified;
+subject;пожарная охрана
+format;csv
+provenance;
+valid;
+publishername;
+publisherphone;
+publishermbox;
+data-20180329T1403-structure-20180329T1355;http://opendata.admshmr.ru/4430001003-munohrana/data-20180329T1403-structure-20180329T1355.csv
+structure-20180329T1355;http://opendata.admshmr.ru/4430001003-munohrana/structure-20180329T1355.csv

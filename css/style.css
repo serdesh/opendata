@@ -1,0 +1,49 @@
+/* 
+    Created on : 16.06.2016, 9:46:05
+    Author     : Дешкович С.С.
+*/
+.head{
+        margin-top: 8%;
+}
+td, th{
+    padding: 10px;
+}
+th, #cellnum, #cellf, #cellcenter {
+    text-align: center;
+}
+.label{
+    color: black;
+    padding: 10px;
+    font-size: 100%;
+    font-weight: 700;
+}
+.data {
+    /*padding: 10px;
+    margin:auto;*/
+}
+thead{
+    background-color: lightgray;
+}
+/*td{
+    border-bottom: 1px solid black;
+}*/
+.odd, .even{
+    border-bottom: 1px solid lightgray;
+}
+.question{
+    font-size: 20px;
+    text-decoration: underline;
+}
+#odat{
+    float: right;
+    padding: 0 0 10px 0; 
+}
+
+th{
+    background-color: lightgrey;
+    vertical-align: middle !important;
+}
+
+.odd{
+    background-color: #f8f4ff;
+}

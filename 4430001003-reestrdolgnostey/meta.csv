@@ -1,0 +1,17 @@
+property;value
+standardversion;http://opendata.gosmonitor.ru/standard/3.0
+identifier;4430001003-reestrdolgnostey
+title;Реестр должностей муниципальной службы
+description;Сведения, содержащие наименования и группы должностей администрации Шарьинского муниципального района Костромской области
+creator;Администрация Шарьинского муниципального района Костромской области
+created;20160621
+modified;
+subject;Должности муниципальной службы,группа
+format;csv
+provenance;
+valid;20161231
+publishername;Голубева Мария Дмитриевна
+publisherphone;+74944957775
+publishermbox;m.golubeva@admshmr.ru
+data-20160621T0910-structure-20160621T1031;http://opendata.admshmr.ru/4430001003-reestrdolgnostey/data-20160621T0910-structure-20160621T1031.csv
+structure-20160621T1031;http://opendata.admshmr.ru/4430001003-reestrdolgnostey/structure-20160621T1031.csv

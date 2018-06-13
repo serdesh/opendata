@@ -1,0 +1,24 @@
+property;title;value;format
+standardversion;Версия методических рекомендаций; http://opendata.gosmonitor.ru/standard/3.0;
+4430001003-informrezultatproverki;Информация о результатах плановых и внеплановых проверок;http://opendata.admshmr.ru/4430001003-informrezultatproverki/meta.csv;csv
+4430001003-perechennedvigimosti;Перечень объектов недвижимого имущества;http://opendata.admshmr.ru/4430001003-perechennedvigimosti/meta.csv;csv
+4430001003-perechenobrazovanie;Перечень организаций и учреждений образования;http://opendata.admshmr.ru/4430001003-perechenobrazovanie/meta.csv;csv
+4430001003-perechenkultura;Перечень организаций и учреждений культуры;http://opendata.admshmr.ru/4430001003-perechenkultura/meta.csv;csv
+4430001003-perechengkh;Перечень организаций и учреждений ЖКХ;http://opendata.admshmr.ru/4430001003-perechengkh/meta.csv;csv
+4430001003-perchenpodrazdelenia;Перечень структурных подразделений;http://opendata.admshmr.ru/4430001003-perchenpodrazdelenia/meta.csv;csv
+4430001003-planproverok;План проведения плановых проверок юридических лиц и индивидуальных предпринимателей;http://opendata.admshmr.ru/4430001003-planproverok/meta.csv;csv
+4430001003-reestrdolgnostey;Реестр должностей муниципальной службы;http://opendata.admshmr.ru/4430001003-reestrdolgnostey/meta.csv;csv
+4430001003-poddergkaorganizacii;Сведения из муниципальных реестров социально-оринтированных некоммерческих организаций-получателей поддержки;http://opendata.admshmr.ru/4430001003-poddergkaorganizacii/meta.csv;csv
+4430001003-vakansii;Сведения о вакантных должностях муниципальной службы;http://opendata.admshmr.ru/4430001003-vakansii/meta.csv;csv
+4430001003-spasateli;Сведения о местах нахождения аварийно-спасательных служб и аварийно-спасательных формирований;http://opendata.admshmr.ru/4430001003-spasateli/meta.csv;csv
+4430001003-avariiniedoma;Сведения о местах нахождения аварийных домов и жилых домов, признанных не пригодными для проживания;http://opendata.admshmr.ru/4430001003-avariiniedoma/meta.csv;csv
+4430001003-mestoadministracii;Сведения о местах нахождения администраций муниципальных образований, иных органов местного самоуправления;http://opendata.admshmr.ru/4430001003-mestoadministracii/meta.csv;csv
+4430001003-objectidorognogoservisa;Сведения о местах нахождения объектов дорожного сервиса, площадках отдыха водителей, стоянках (парковках) транспортных средств;http://opendata.admshmr.ru/4430001003-objectidorognogoservisa/meta.csv;csv
+4430001003-stroireconstrukcia;Сведения о местах нахождения объектов, в отношении которых выданы разрешения на строительство или реконструкцию;http://opendata.admshmr.ru/4430001003-stroireconstrukcia/meta.csv;csv
+4430001003-zashitanaselenia;Сведения о местах нахождения органов, специально уполномоченных на решение задач в области защиты населения;http://opendata.admshmr.ru/4430001003-zashitanaselenia/meta.csv;csv
+4430001003-marshruty;Сведения о местах нахождения остановочных пунктов общественного транспорта;http://opendata.admshmr.ru/4430001003-marshruty/meta.csv;csv
+4430001003-munohrana;Сведения о местах нахождения подразделений муниципальной пожарной охраны;http://opendata.admshmr.ru/4430001003-munohrana/meta.csv;csv
+4430001003-razmeschenietko;Сведения о местах санкционированного размещения твердых коммунальных отходов;http://opendata.admshmr.ru/4430001003-razmeschenietko/meta.csv;csv
+4430001003-jarmanki;Сведения о местах организации и проведения ярмарок;http://opendata.admshmr.ru/4430001003-jarmanki/meta.csv;csv
+4430001003-geopunkty;Сведения о местах нахождения пунктов геодезических сетей специального назначения;http://opendata.admshmr.ru/4430001003-geopunkty/meta.csv;csv
+4430001003-pomosch;Сведения о местах нахождения службы психологической помощи, бесплатной юридической помощи;http://opendata.admshmr.ru/4430001003-pomosch/meta.csv;csv

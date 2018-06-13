@@ -1,0 +1,17 @@
+property;value
+standardversion;http://opendata.gosmonitor.ru/standard/3.0
+identifier;4430001003-marshruty
+title;Сведения о местах нахождения остановочных пунктов общественного транспорта
+description;Сведения о местах нахождения остановочных пунктов общественного транспорта (наименование, вид транспорта, номер маршрута), на территории Шарьинского района
+creator;Администрация Шарьинского муниципального района Костромской области
+created;20180329
+modified;
+subject;маршруты, остановки
+format;csv
+provenance;
+valid;
+publishername;Графова Варвара Николаевна
+publisherphone;+74944953398
+publishermbox;v.grafova@admshmr.ru
+data-20180329T1304-structure-20180329T1300;http://opendata.admshmr.ru/4430001003-marshruty/data-20180329T1304-structure-20180329T1300.csv
+structure-20180329T1300;http://opendata.admshmr.ru/4430001003-marshruty/structure-20180329T1300.csv

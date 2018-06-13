@@ -1,0 +1,17 @@
+property;value
+standardversion;http://opendata.gosmonitor.ru/standard/3.0
+identifier;4430001003-zashitanaselenia
+title;Сведения о местах нахождения органов, специально уполномоченных на решение задач в области защиты населения
+description;Сведения о местах нахождения органов, специально уполномоченных на решение задач в области защиты населения и территорий Российской Федерации от чрезвычайных ситуаций (наименование, режим работы), на территории Шарьинского района
+creator;Администрация Шарьинского муниципального района Костромской области
+created;20170605
+modified;
+subject;чс, защита населеня
+format;csv
+provenance;
+valid;
+publishername;Романова Наталья Владимировна
+publisherphone;+74944958906
+publishermbox;n.romanova@admshmr.ru
+data-20170605T1427-structure-20170605T1427;http://opendata.admshmr.ru/4430001003-zashitanaselenia/data-20170605T1427-structure-20170605T1427.csv
+structure-20170605T1427;http://opendata.admshmr.ru/4430001003-zashitanaselenia/structure-20170605T1427.csv
