@@ -5,13 +5,13 @@ title;Перечень объектов недвижимого имуществ�
 description;Перечень объектов недвижимого имущества, находящегося в собственности Шарьинского муниципального района Костромской области
 creator;Администрация Шарьинского муниципального района Костромской области
 created;20180316
-modified;
+modified;20180810
 subject;недвижимое имущество
 format;csv
-provenance;
+provenance;Актуализация данных
 valid;
 publishername;Лебедева Ирина Витальевна
 publisherphone;+74944953408
 publishermbox;i.lebedeva@admshmr.ru
-data-20180316T0902-structure-20180316T08045;http://opendata.admshmr.ru/4430001003-perechennedvigimosti/data-20180316T0902-structure-20180316T08045.csv
-structure-20180316T08045;http://opendata.admshmr.ru/4430001003-avariiniedoma/structure-20180316T08045.csv
+data-20180810T1413-structure-20180810T1332;http://opendata.admshmr.ru/4430001003-perechennedvigimosti/data-20180810T1413-structure-20180810T1332.csv
+structure-20180810T1332;http://opendata.admshmr.ru/4430001003-perechennedvigimosti/structure-20180810T1332.csv

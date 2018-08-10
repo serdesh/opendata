@@ -17,6 +17,7 @@
             echo '<a class="btn btn-default" href="/index.php?page=content/showdata.php&title=' . $title . '&link_data=' . $urlnabor . '" role="button">Просмотреть данные</a>';
             echo '<a class="btn btn-default" href="' . $urlmeta . '" role="button">Скачать паспорт (*.csv)</a>';
             $urls_old_nabor = get_old_datafile($folder);
+            $urls_old_structure = get_old_datafile($folder);
             ?>
         </div>
     </div>
